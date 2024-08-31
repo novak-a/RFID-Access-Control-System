@@ -1,4 +1,4 @@
-# RFID-Access-Control-System
+# RFID Access Control System
 
 This project implements an RFID-based access control system using an Arduino. It allows authorized users to unlock a system by scanning their RFID tag and can store new RFID tags for future access. The system  includes an indicator system using LEDs for user feedback.
 
